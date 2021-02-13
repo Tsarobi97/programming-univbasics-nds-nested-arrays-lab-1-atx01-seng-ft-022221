@@ -44,7 +44,7 @@ def sorted_matrix
   "Potatoes",
   "Grapes",
   "Avocadoes",
-  "Asparagus".sort]
+  "Asparagus"].sort
     ]
   
   # Using Array literal syntax only, build another nested array that 
