@@ -36,7 +36,7 @@ end
 
 def sorted_matrix
   
-  [[ "Grapefruit",
+  sorted_matrix = [[ "Grapefruit",
   "Pineapple",
   "Oranges",
   "Watermelon",
