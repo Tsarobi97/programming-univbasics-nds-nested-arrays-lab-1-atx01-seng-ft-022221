@@ -37,7 +37,7 @@ end
 def sorted_matrix
   sorted_matrix = 
   
-  sorted_matrix = (CONVENTIONAL_PRODUCE, ORGANIC_PRODUCE)
+  sorted_matrix = sorted_matrix(CONVENTIONAL_PRODUCE, ORGANIC_PRODUCE)
   sorted_matrix.sort
  
   # Using Array literal syntax only, build another nested array that 
